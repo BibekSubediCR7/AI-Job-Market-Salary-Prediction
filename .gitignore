@@ -19,8 +19,7 @@ env/
 *.ipynb_checkpoints
 
 
-# Trained models and scaler
-models/
+
 
 
 
