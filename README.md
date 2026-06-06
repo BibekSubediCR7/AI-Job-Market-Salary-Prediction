@@ -6,7 +6,7 @@ covering 25 specialisations, 14 countries, and 5 company size categories.
 
 **GitHub:** https://github.com/BibekSubediCR7/AI-Job-Market-Salary-Prediction  
 **Dataset:** https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries  
-**Live App:** run `streamlit run streamlit/app.py` after setup
+**Live App:** run `streamlit run streamlit/app.py` after setup  
 **Live Web App to Surf** https://huggingface.co/spaces/bibeksubedi7/AI-Job-Market-Salary-Predictor
 
 ---
